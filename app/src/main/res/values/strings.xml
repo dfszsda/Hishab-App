@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">hisabapp</string>
+
+    <string name="name_hint">Name</string>
+    <string name="mobile_number_hint">Mobile Number</string>
+    <string name="amount_hint">Amount</string>
+    <string name="income_label">Income</string>
+    <string name="expense_label">Expense</string>
+    <string name="description_hint">Description</string>
+    <string name="save_button">Save</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="view_reports">View Reports</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="description">Description</string>
+    <string name="save_transaction">Save Transaction</string>
+    <string name="save">Save</string>
+    <string name="Hisabapp">Hisab App</string>
+    <string name="tap_image_to_change">Tap image to change</string>
+    <string name="category_name">Category Name *</string>
+    <string name="default_price_optional">Default Price (Optional)</string>
+    <string name="description_optional">Description (Optional)</string>
+    <string name="save_changes">Save Changes</string>
+
+    <!-- <string name="category_name">Category Name</string> -->
+</resources>
